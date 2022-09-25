@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    
+    font-family:'Times New Roman';    
+}
+
+li {
+    background: #F8F8F8;
+    border-radius: 20px;
+    padding: 10px 30px;
+    margin-bottom: 20px;   
+    text-align: center; 
+}
+
+ul {
+    list-style: none;
+    width: 100%;
+    padding: 0;
+    margin-top: 40px;
+}
+
+button{
+    padding: 5px;
+    background-color: rgb(173, 168, 168);
+    border: 2px solid rgb(123, 120, 120);
+    border-radius: 5px;
+}
