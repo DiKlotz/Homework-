@@ -1,0 +1,30 @@
+.container{
+    margin: 0 auto;
+    text-align: center;
+	
+}
+
+.tesla__container{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+	
+}
+
+.buttons__container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+	
+}
+
+.btnsColor{
+    margin: 0 5px;
+    width: 30px;
+    height: 40px;
+    border: none;
+	border-radius: 3px;
+	box-shadow: 2px 2px 3px 1px #5050504f;
+	cursor: pointer;
+}
+
