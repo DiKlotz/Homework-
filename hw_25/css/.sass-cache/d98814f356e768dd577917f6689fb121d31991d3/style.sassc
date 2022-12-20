@@ -1,0 +1,44 @@
+3.7.4
+62e4e4fb4c54b5d998a2b80cdf04869a2a7fb5b5
+o:Sass::Tree::RootNode
+:@children[o:Sass::Tree::ImportNode
+:@imported_filenameI"ProximaNova:ET;[:@filenameI"J/Users/katya/Documents/hillel/16.0/homeworks/shop_done/css/style.sass;	T:
+@options{:@template0:@source_rangeo:Sass::Source::Range	:@start_poso:Sass::Source::Position:
+@linei:@offseti:
+@end_poso;;i;i:
+@file@
+:@importero: Sass::Importers::Filesystem:
+@rootI"?/Users/katya/Documents/hillel/16.0/homeworks/shop_done/css;	T:@real_rootI"?/Users/katya/Documents/hillel/16.0/homeworks/shop_done/css;	T:@same_name_warningso:Set:
+@hash}F;i:@imported_file0o;
+;I"	base;	T;[;
+@
+;@;0;
+o;	;o;;i;i;o;;i;i;@
+;@;i;0o;
+;I"header;	T;[;
+@
+;@;0;
+o;	;o;;i;i!;o;;i;i';@
+;@;i;0o;
+;I"
+category;	T;[;
+@
+;@;0;
+o;	;o;;i;i);o;;i;i1;@
+;@;i;0o;
+;I"product;	T;[;
+@
+;@;0;
+o;	;o;;i;i3;o;;i;i:;@
+;@;i;0o;
+;I"	form;	T;[;
+@
+;@;0;
+o;	;o;;i;i<;o;;i;i@;@
+;@;i;0o;
+;I"account;	T;[;
+@
+;@;0;
+o;	;o;;i;iB;o;;i;iI;@
+;@;i;0;
+0;@;I"H@import ProximaNova, base, header, category, product, form, account;	T:@has_childrenT
